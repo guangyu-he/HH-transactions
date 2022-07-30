@@ -1,0 +1,6 @@
+__pycache__
+.idea
+venv
+transactions
+transaction.csv
+.DS_Store
